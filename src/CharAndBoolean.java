@@ -3,8 +3,5 @@ public class CharAndBoolean {
         // width of 16 (2 bytes)
         char myChar = '\u00AE'; // хранит одну букву или символ
         System.out.println("Unicode output was: " + myChar);
-
-        boolean myBoolean = true;
-        boolean isMale = true;
     }
 }
